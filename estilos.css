@@ -26,7 +26,7 @@ h2 {
 img {
     display: block;
     float: right;
-    margin-right: 30%;
+    margin-right: 
 }
 h3 {
     color: #e71976;
@@ -41,6 +41,11 @@ h4 {
     margin: 0%;
     align-items: center;
     display: inline-flex
+}
+h5 { 
+    text-align: center;
+    display: inline-flexbox;
+    margin-bottom: 0%;
 }
 .tita {
     display: inline-block;
@@ -73,4 +78,11 @@ h4 {
 }
 .tith {
     display: inline-block;
+}
+.creditos {
+    text-align: center;
+    color: black;
+}
+p {
+    color: #351703;
 }
